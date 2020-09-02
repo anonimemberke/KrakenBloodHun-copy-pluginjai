@@ -1,1 +1,3 @@
 # KrakenBloodHun-copy-pluginjai
+
+AdvancedAchievements ArmorStandEditor AuctionHouse BadWords BattleDrones Chairs Challenges Cigarette Citizens Clans CleanroomGenerator CoreProtect CraftEnhance CustomWings DeadChest DecoHeads EffectLib EmptyWorldGenerator Essentials EssentialsAntiBuild EssentialsChat EssentialsGeoIP EssentialsProtect EssentialsSpawn HolographicDisplays LoginSecurity LuckPerms LWC MinecraftServerManager MoneyDrops MultiSpawn Multiverse-Core Multiverse-Portals MyPet NametagEdit Parrots PixelPrinter PlaceholderAPI PluginConstructorAPI PluginHiderPlus ProtocolLib SetHomes SilkSpawners SkinsRestorer TabList TradePlus Vault WorldEdit WorldEditSUI WorldGuard
